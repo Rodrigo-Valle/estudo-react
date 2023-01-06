@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calca vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Chinelo",
+      "price": "15",
+      "id": 4
+    },
+    {
+      "name": "Tenis",
+      "price": "89.90",
+      "id": 5
+    },
+    {
+      "name": "Cueca",
+      "price": "9.90",
+      "id": 6
+    },
+    {
+      "name": "Meia",
+      "price": "4.50",
+      "id": 7
+    },
+    {
+      "name": "Camiseta",
+      "price": "29.90",
+      "id": 8
+    },
+    {
+      "name": "Mala",
+      "price": "150",
+      "id": 9
+    },
+    {
+      "name": "Bolsa",
+      "price": "250",
+      "id": 10
+    }
+  ]
+}
